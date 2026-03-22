@@ -55,6 +55,6 @@ misconfigurations can lead to full system compromise.
 
 *"Not everything is visible at first glance."*
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3Z3V5Mm45Njlqc3doMWJnYWwxazlsdGEwMzFnNGp4Ymk0Zjl2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qld1cd6a6QlWw/giphy.gif
 
-— Made by [Your Name]
+
+- Made by Taisa456
