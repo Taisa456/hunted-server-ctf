@@ -1,6 +1,6 @@
 # The Haunted Server
 
-A few weeks ago I decided to build my first CTF room from scratch.
+A few days ago I decided to build my first CTF room from scratch.
 No tutorials, no templates - just a concept, a Linux VM, and a lot
 of trial and error.
 
@@ -58,3 +58,5 @@ misconfigurations can lead to full system compromise.
 
 
 - Made by Taisa456
+
+![](./giphy%20(1).gif)
